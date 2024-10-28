@@ -1,5 +1,5 @@
 # steps:-
-======\n
+-------------
 1- Evironment Setup
 2- Setup express server
 3- Mongodb setup
