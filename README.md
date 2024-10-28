@@ -1,14 +1,14 @@
 # steps:-
 -------------
-1- Evironment Setup
-2- Setup express server
-3- Mongodb setup
-4- Creating User Model
-5- Helpers for application
-6- authenticaiton controllers
-7- authentication routers and logging in
-8- MiddleWare creation
-9- User controllers and routing
+1- Evironment Setup<br />
+2- Setup express server<br />
+3- Mongodb setup<br />
+4- Creating User Model<br />
+5- Helpers for application<br />
+6- authenticaiton controllers<br />
+7- authentication routers and logging in<br />
+8- MiddleWare creation<br />
+9- User controllers and routing<br />
 
 
 ### 1- Evironment Setup :-
